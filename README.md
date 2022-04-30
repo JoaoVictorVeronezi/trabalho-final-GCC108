@@ -1,6 +1,6 @@
 # Trabalho_Final_GCC108
 - João Victor Veronezi
-- Vinicius Abreu
+- Vinicius Abreu Gonçalves
 
 
 
